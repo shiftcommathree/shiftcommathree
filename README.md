@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 You can usually find me in my natural habitat competently browsing stackoverflow, whipping my hair back and forth and doing some socially unacceptable thing such as laughing at my own puns. On my free time, I do enjoy going outside to remind myself that the world doesn't revolve around my basement (if only...).
 
 I'm currently residing in 1 Bunny Way, Bunnyville with my 2 pet bunnies Teysa & Azura
-![Teysazura](https://www.instagram.com/p/B66oLIiFSpM/)
+![Teysazura]()
 
